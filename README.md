@@ -2,10 +2,6 @@
 
 A web app built with **Python, Pandas and Streamlit** that cleans messy CSV files automatically. Upload a CSV, review the before/after comparison, and download the cleaned file in one click.
 
-# 🧹 Automated CSV Data Cleaner
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://python-csv-data-cleaner-knmpxrpxjyfcjkth3fp2u2.streamlit.app/)
-
 🔗 **Live Demo:** [https://lahari-csv-cleaner.streamlit.app](https://python-csv-data-cleaner-knmpxrpxjyfcjkth3fp2u2.streamlit.app/)
 
 ## Features
